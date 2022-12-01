@@ -10,7 +10,7 @@ public class Islemler implements Methods {
     //HashMap -> urunİd , Urunler
     String urunIsmiArr[] = {"Un", "Şeker", "Yumurta", "Helva", "Yağ", "Margarin"};
     String ureticiArr[] = {"Hekimoğlu", "Ekici", "Ova un", "Ülker", "Bili Bili"};
-    String urunBirimiArr[] = {"Koli", "Çuval", "Paket", "Litre", "Kilogram"};
+
 
     @Override
     public void urunTanimlama() {
